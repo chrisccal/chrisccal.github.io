@@ -1,0 +1,20 @@
+body {
+background-image: url("../images/daenerys.jpeg");
+background-size: 100%
+}
+
+p { 
+color: white;
+width: 50%; 
+}
+
+a {
+
+	color: white;
+	margin-right: 60px;
+}
+
+#one {
+
+	margin-top: 60px;
+}

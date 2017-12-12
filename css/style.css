@@ -1,1 +1,52 @@
 
+
+body { 
+background-image: url("../images/got1.jpeg") ;
+background-size:  100%; 
+}
+
+#link {
+
+	margin-left: 70px;
+	margin-top: 80px;
+	
+}
+#link2 {
+	margin-left: 35px;
+	margin-top: 400px;
+
+}
+a {
+	margin-right: 545px;
+	color:  white;
+}
+
+img { 
+width: 40%;
+float: right;
+margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

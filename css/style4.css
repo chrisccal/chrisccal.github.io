@@ -1,0 +1,33 @@
+
+
+
+#one {
+
+width: 30%;
+}
+
+
+body {
+background-image: url("../images/benjen.jpeg");
+background-size: 100%;
+color: white; 
+}
+
+#links { 
+display: block;
+
+}
+a {
+
+	color: white;
+	margin-right: 60px;
+}
+
+p {
+
+	width: 40%;   margin-top: 50px;
+}
+
+
+
+
